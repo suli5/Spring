@@ -1,0 +1,5 @@
+Ejercicio1:
+Crear proyecto maven con la dependencia spring-context y crear una clase com.example.Ejercicio1.Saludo con un metodo imprimirSaludo que imprima un texto
+por consola.
+Crear el archivo beans.xml con un bean para la clase com.example.Ejercicio1.Saludo.
+Obtener el bean desde el metodo main y ejecutar el metodo imprimirSaludo.

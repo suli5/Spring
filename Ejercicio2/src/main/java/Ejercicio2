@@ -1,0 +1,7 @@
+EJERCICIO2:
+Crear la clase NotificationService, con un metodo que imprima un saludo.
+Crear una clase UserService que tenga un atributo de clase NotificationService.
+Utilizar la anotacion @Component en cada clase.
+Habilitar el escaneo de clases en el archivo beans.xml
+Desde el metodo main, probar a obtener el bean UserService y ejecutar el metodo imprimirSaludo que tiene asociado el atributo
+de tipo NotificationService. De forma similar a la realizada en la clase.
